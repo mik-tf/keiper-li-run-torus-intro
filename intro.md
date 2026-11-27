@@ -11,6 +11,8 @@ date_footer: "YYYY-MM-DD"
 header_title: "How close can we pin down the longest run of one sign?"
 ---
 
+DOI of this text: [doi:10.5281/zenodo.24577243](https://doi.org/10.5281/zenodo.24577243)
+
 This is an introductory text to the research paper *The longest sign run of Keiper-Li second differences: a torus problem and its dual* [[Per26]](https://doi.org/10.5281/zenodo.24517615), by the same author. The paper has the proofs and the full computations. This note has the idea. No equations are needed to follow it. It makes no claim the paper does not make, and for each claim it says whether it is proved, certified by computer with error bars, or only computed.
 
 One caution comes first. **Every result of the paper about the actual sequence is conditional.** They assume the Riemann hypothesis (RH), whose announced proof is described just below, and the lower bound also needs a second, unproved hypothesis about independence. The paper does not prove RH and it does not disprove it.
