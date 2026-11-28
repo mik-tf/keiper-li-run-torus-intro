@@ -84,18 +84,6 @@ It does not say that the independence hypothesis is true, and it does not claim 
 - The companion paper on sign runs and the density of sign changes [[Per26b]](https://doi.org/10.5281/zenodo.24486137).
 - The public code and certificates, at [github.com/mik-tf/keiper-li-run-torus](https://github.com/mik-tf/keiper-li-run-torus).
 
-# References {-}
-
-[Per26] M. Perreault, *The longest sign run of Keiper-Li second differences: a torus problem and its dual*, 2026, Zenodo. [doi:10.5281/zenodo.24517615](https://doi.org/10.5281/zenodo.24517615).
-
-[Per26a] M. Perreault, *Sign changes of Keiper-Li second differences*, 2026, Zenodo. [doi:10.5281/zenodo.24447746](https://doi.org/10.5281/zenodo.24447746).
-
-[Per26b] M. Perreault, *Sign runs and the density of sign changes of Keiper-Li second differences*, 2026, Zenodo. [doi:10.5281/zenodo.24486137](https://doi.org/10.5281/zenodo.24486137).
-
-```{=latex}
-\par\ifdim\dimexpr\pagegoal-\pagetotal\relax<15\baselineskip\ifdim\pagetotal>0pt\newpage\fi\fi
-```
-
 # Use of AI {-}
 
 Claude (Anthropic) was used in November 2026, under the author's direction, for drafting, figures and checks.
@@ -109,3 +97,15 @@ Claude (Anthropic) was used in November 2026, under the author's direction, for 
 The full paper, with the proofs, is *The longest sign run of Keiper-Li second differences: a torus problem and its dual*, by Michaël Perreault.
 
 DOI: [doi:10.5281/zenodo.24517615](https://doi.org/10.5281/zenodo.24517615)
+
+```{=latex}
+\par\ifdim\dimexpr\pagegoal-\pagetotal\relax<15\baselineskip\ifdim\pagetotal>0pt\newpage\fi\fi
+```
+
+# References {-}
+
+[Per26] M. Perreault, *The longest sign run of Keiper-Li second differences: a torus problem and its dual*, 2026, Zenodo. [doi:10.5281/zenodo.24517615](https://doi.org/10.5281/zenodo.24517615).
+
+[Per26a] M. Perreault, *Sign changes of Keiper-Li second differences*, 2026, Zenodo. [doi:10.5281/zenodo.24447746](https://doi.org/10.5281/zenodo.24447746).
+
+[Per26b] M. Perreault, *Sign runs and the density of sign changes of Keiper-Li second differences*, 2026, Zenodo. [doi:10.5281/zenodo.24486137](https://doi.org/10.5281/zenodo.24486137).
